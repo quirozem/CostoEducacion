@@ -17,3 +17,5 @@ Description<br>
 <tr><td>Insurance_USD 	<td>float <td>Annual health or student insurance cost in U.S. dollars, as required by many host countries.
 <tr><td>Exchange_Rate 	<td>float <td>Local currency units per U.S. dollar at the time of data collection—vital for currency conversion and trend analysis if rates fluctuate.
 </table>
+<br>
+El uso de este repositorio es para la clase de programación con Python.
