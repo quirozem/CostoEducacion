@@ -9,7 +9,7 @@ Description<br>
 <tr><td>University 	    <td>string 	<td>Official name of the higher-education institution (e.g., “Technical University of Munich”).
 <tr><td>Program    	    <td>string 	<td>Specific course or major (e.g., “Master of Computer Science”, “MBA”).
 <tr><td>Level 	   	    <td>string 	<td>Degree level of the program: “Undergraduate”, “Master’s”, “PhD”, or other certifications.
-<tr><td>Duration_Years 	<td>integer <td>Length of the program in years (e.g., 2 for a typical Master’s).
+<tr><td>Duration_Years 	<td>float <td>Length of the program in years (e.g., 2 for a typical Master’s).
 <tr><td>Tuition_USD 	  <td>float <td>Total program tuition cost, converted into U.S. dollars for ease of comparison.
 <tr><td>Living_Cost_Index <td>float <td>A normalized index (often based on global city indices) reflecting relative day-to-day living expenses (food, transport, utilities).
 <tr><td>Rent_USD 	      <td>float <td>Average monthly student accommodation rent in U.S. dollars.
