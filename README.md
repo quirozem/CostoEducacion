@@ -1,8 +1,8 @@
 # CostoEducacion
-Costo de educación en diferentes paises
-Dataset descargado de Kaggle: https://www.kaggle.com/datasets/adilshamim8/cost-of-international-education/data
-Description
-Column 	   	    Type  	Description
+Costo de educación en diferentes paises<br>
+Dataset descargado de Kaggle: https://www.kaggle.com/datasets/adilshamim8/cost-of-international-education/data<br>
+Description<br>
+Column 	   	    Type  	Description<br>
 Country    	    string 	ISO country name where the university is located (e.g., “Germany”, “Australia”).
 City 	   	      string 	City in which the institution sits (e.g., “Munich”, “Melbourne”).
 University 	    string 	Official name of the higher-education institution (e.g., “Technical University of Munich”).
